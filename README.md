@@ -55,7 +55,7 @@ Loss Function: Binary cross-entropy
 
 Optimizer: Adam
 
-Training:
+## Training:
 
 Number of Epochs: Initially 100, adjusted during optimization.
 
@@ -65,19 +65,19 @@ Model Performance
 
 Initial Model Accuracy: Approximately below 75%.
 
-Optimization Attempts:
+## Optimization Attempts:
 
 Adjusted categorical binning and feature selection. such as 
 
-increased max_value to 100.
+the value of layer has been changed like first layer =50, second layer= 100,  Third layer= 200, fourth layer = 250, fifth layer = 300.
 
 Increased neurons in hidden layers.
 
-Increased the number of hidden layers, we put 3 to 5 hidden layers.
+Increased the number of hidden layers, we put 1 to 5 hidden layers.
 
 Experimented with different activation functions.
 
-Adjusted the number of training epochs.in 100 to 150.
+Adjusted the number of training epochs.in 100 to 200.
 
 Optimized Model Accuracy: Attempted to surpass 73% may vary could not get 75% .
 
