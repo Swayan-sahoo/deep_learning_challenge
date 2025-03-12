@@ -77,7 +77,7 @@ Increased the number of hidden layers, we put 1 to 5 hidden layers.
 
 Experimented with different activation functions.
 
-Adjusted the number of training epochs.in 100 to 200.
+Adjusted the number of training epochs 200.
 
 Optimized Model Accuracy: Attempted to surpass 73% may vary could not get 75% .
 
